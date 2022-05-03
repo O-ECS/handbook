@@ -1,6 +1,6 @@
 # Funktionen
 ## Sammelfunktion oecs_all()
-Mit der Sammelfunktion oecs_all() kann das Screening mit Hilfe einer Exceldatei gesteuert werden.
+Mit der Sammelfunktion oecs_all() kann das Screening mit Hilfe einer Exceldatei gesteuert werden. Dies vereinfacht die Anwendung und das Sichern der 
 
 ## Basisfunktionen
 ### oecs_init()
@@ -19,4 +19,4 @@ Mit der Funktion oecs_evaluate() wird der Rücklauf ausgewertet und die ausstehe
 Mit der Funktion oecs_compare() werden die Daten mit den Umfragen von anderen verglichen. Dies kann bei der Interpretation der Werte helfen.
 
 ### oecs_open_science()
-Mit der Funktion oecs_open_science() werden die erhaltenen Daten weiter anonymisiert und in die gemeinsame Datensammlung eingetragen. Damit wird die Evaluation der Screeninginstrumente sowie Forschung ermöglicht.
+Mit der Funktion oecs_open_science() werden die anonymität der Daten sichergestellt und anschliessend in die gemeinsame Datensammlung eingetragen. Damit wird die Evaluation der Screeninginstrumente sowie Forschung ermöglicht.
