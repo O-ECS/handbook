@@ -1,5 +1,5 @@
 # Handbuch zu O-ECS (Deutsch)
-* Installation
+* [Installation](https://github.com/O-ECS/handbook/blob/main/deutsch/installation.md)
 * [Funktionen](https://github.com/O-ECS/handbook/blob/main/deutsch/funktionen.md)
 * Beispiele
 
