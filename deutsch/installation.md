@@ -14,5 +14,5 @@ if (!require("devtools")) {
   install.packages("devtools")
   library("devtools")
 }
-install_github("cloudyr/limer")
+install_github("O-ECS/oecs")
 ```
