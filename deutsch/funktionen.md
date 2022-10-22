@@ -1,5 +1,5 @@
 # Funktionen
-## [Sammelfunktion oecs_all()](https://github.com/O-ECS/handbook/tree/main/deutsch/funktionen)
+## [Sammelfunktion oecs_all()]([/funktionen/oecs_all.md))
 Mit der Sammelfunktion oecs_all() kann das Screening mit Hilfe einer Exceldatei gesteuert werden. Dies vereinfacht die Anwendung und das Sichern der 
 
 ## Basisfunktionen
